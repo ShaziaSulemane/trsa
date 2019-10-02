@@ -1,0 +1,8 @@
+prefix=/home/shazia/trsa_ws/devel
+
+Name: t5_package
+Description: Description of t5_package
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/shazia/trsa_ws/devel/lib 
+Requires: 

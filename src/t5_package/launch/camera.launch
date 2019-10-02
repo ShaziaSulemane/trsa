@@ -1,0 +1,4 @@
+<launch>
+  <node name="camera_stream" pkg="t5_package" type="camera_stream" output="screen"/>
+
+</launch>
